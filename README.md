@@ -57,10 +57,12 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 ## Technologies Used
 
 - [Next.js](https://nextjs.org/) - React framework for the frontend
-- [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
+- [Cyberdesk](https://cyberdesk.io) - Virtual desktop infrastructure
+- [Assistant UI React](https://www.assistant-ui.com/) - UI components for the chat interface
+- [AI SDK](https://sdk.vercel.ai/docs/guides/computer-use) - Tools for working with AI models
 - [Anthropic Claude](https://www.anthropic.com/) - AI model for the assistant
-- [Assistant UI React](https://github.com/assistant-ui/react) - UI components for the chat interface
-- [AI SDK](https://github.com/vercel/ai) - Tools for working with AI models
+- [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
+
 
 ## License
 
