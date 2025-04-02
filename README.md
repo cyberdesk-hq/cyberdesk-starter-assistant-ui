@@ -24,6 +24,7 @@ Create a `.env.local` file in the root directory with the following variables:
 
 ```
 CYBERDESK_API_KEY=your_cyberdesk_api_key_here
+ANTHROPIC_API_KEY=your_anthropic_api_key_here
 ```
 
 You'll need to obtain a Cyberdesk API key to use the virtual desktop functionality.
